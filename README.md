@@ -2,8 +2,6 @@
 
 This is a revised implementation of the original [TicTacToe game](https://github.com/abayomipopoola/tictactoe/tree/single-player), written in Go/HTMX.
 
-![tic-tac-toe](./game.png)
-
 ## Features & Functionality
 
 I've enhanced the original game with multiplayer functionality over a network, leveraging the long-polling technique for client-server communication.
